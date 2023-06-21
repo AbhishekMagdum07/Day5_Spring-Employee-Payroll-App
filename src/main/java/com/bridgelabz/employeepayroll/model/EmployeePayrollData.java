@@ -16,3 +16,4 @@ public class EmployeePayrollData {
         this.salary = employeePayrollDTO.salary;
     }
 }
+
