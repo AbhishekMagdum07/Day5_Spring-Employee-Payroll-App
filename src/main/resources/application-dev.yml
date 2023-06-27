@@ -1,0 +1,11 @@
+
+environment : DEV
+
+logging:
+  level:
+    root: WARN
+    org.springframework.web: WARN
+    org.hibernate: ERROR
+    com.bridgelabz: DEBUG
+
+  pattern.console: '%d{yyyy-MM-dd HH:mm:ss.SSS} [%level] [%thread] [%logger{5}:%lineJ %msg%n'
