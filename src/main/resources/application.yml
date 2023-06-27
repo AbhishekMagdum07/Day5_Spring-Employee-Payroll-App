@@ -4,9 +4,9 @@ environment: COMMON
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/employee_payroll?createDatabaseIfNotExist=true
-    username: root
-    password: Abhi
+    url: jdbc:mysql://localhost:3306/PAYROLL_DB?createDatabaseIfNotExist=true
+    username: ${PAYROLL_DB_USERNAME:payrolluser}
+    password: ${PAYROLL_DB_PASSWORD:password}
 
   jpa:
     hibernate:
