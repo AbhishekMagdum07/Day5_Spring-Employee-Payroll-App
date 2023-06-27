@@ -1,0 +1,33 @@
+2023-06-27 10:44:24.785  INFO 16412 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 17.0.7 on DESKTOP-P5ROHNH with PID 16412 (E:\Spring-Boot-Projects\employee-payroll\target\classes started by Abhi in E:\Spring-Boot-Projects\employee-payroll)
+2023-06-27 10:44:24.798 DEBUG 16412 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-27 10:44:24.811  INFO 16412 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following 1 profile is active: "dev"
+2023-06-27 10:44:34.460  WARN 16412 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-27 10:44:35.751  INFO 16412 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 12.296 seconds (JVM running for 14.133)
+2023-06-27 10:44:35.761  INFO 16412 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App Started
+2023-06-27 10:46:03.873  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 17.0.7 on DESKTOP-P5ROHNH with PID 8716 (E:\Spring-Boot-Projects\employee-payroll\target\classes started by Abhi in E:\Spring-Boot-Projects\employee-payroll)
+2023-06-27 10:46:03.876 DEBUG 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-27 10:46:03.877  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following 1 profile is active: "dev"
+2023-06-27 10:46:11.838  WARN 8716 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-27 10:46:12.867  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 10.248 seconds (JVM running for 11.711)
+2023-06-27 10:46:12.877  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App Started
+2023-06-27 10:53:43.905  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 17.0.7 on DESKTOP-P5ROHNH with PID 8716 (E:\Spring-Boot-Projects\employee-payroll\target\classes started by Abhi in E:\Spring-Boot-Projects\employee-payroll)
+2023-06-27 10:53:43.906 DEBUG 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-27 10:53:43.906  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following 1 profile is active: "dev"
+2023-06-27 10:53:45.122  WARN 8716 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-27 10:53:45.560  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 1.753 seconds (JVM running for 464.403)
+2023-06-27 10:53:45.567  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App Started
+2023-06-27 10:56:35.445  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 17.0.7 on DESKTOP-P5ROHNH with PID 8716 (E:\Spring-Boot-Projects\employee-payroll\target\classes started by Abhi in E:\Spring-Boot-Projects\employee-payroll)
+2023-06-27 10:56:35.446 DEBUG 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-27 10:56:35.446  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-06-27 10:56:36.628  WARN 8716 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-27 10:56:37.134  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 1.835 seconds (JVM running for 635.978)
+2023-06-27 10:56:37.138  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App Started
+2023-06-27 10:57:23.516  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 17.0.7 on DESKTOP-P5ROHNH with PID 8716 (E:\Spring-Boot-Projects\employee-payroll\target\classes started by Abhi in E:\Spring-Boot-Projects\employee-payroll)
+2023-06-27 10:57:23.517 DEBUG 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-27 10:57:23.518  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-06-27 10:57:24.632  WARN 8716 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-27 10:57:25.177  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 1.756 seconds (JVM running for 684.021)
+2023-06-27 10:57:25.181  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App Started
+2023-06-27 10:57:41.218  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 17.0.7 on DESKTOP-P5ROHNH with PID 8716 (E:\Spring-Boot-Projects\employee-payroll\target\classes started by Abhi in E:\Spring-Boot-Projects\employee-payroll)
+2023-06-27 10:57:41.219 DEBUG 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-27 10:57:41.223  INFO 8716 --- [restartedMain] c.b.e.EmployeePayrollApplication         : No active profile set, falling back to 1 default profile: "default"
