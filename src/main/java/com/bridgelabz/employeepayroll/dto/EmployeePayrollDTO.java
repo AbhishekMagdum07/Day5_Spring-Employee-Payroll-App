@@ -1,10 +1,8 @@
 package com.bridgelabz.employeepayroll.dto;
 
-import lombok.*;
-import org.springframework.boot.context.properties.ConstructorBinding;
-
-import javax.persistence.ConstructorResult;
-import java.beans.ConstructorProperties;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
 
 
 @NoArgsConstructor

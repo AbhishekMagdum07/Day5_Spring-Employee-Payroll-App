@@ -4,6 +4,7 @@ import com.bridgelabz.employeepayroll.dto.EmployeePayrollDTO;
 import com.bridgelabz.employeepayroll.dto.ResponseDTO;
 import com.bridgelabz.employeepayroll.model.EmployeePayrollData;
 import com.bridgelabz.employeepayroll.service.IEmployeePayrollService;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
