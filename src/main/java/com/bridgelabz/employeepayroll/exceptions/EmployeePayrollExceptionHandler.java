@@ -14,8 +14,14 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import java.util.List;
 import java.util.stream.Collectors;
 @ControllerAdvice
-
+@Slf4j
 public class EmployeePayrollExceptionHandler {
+    @ExceptionHandler(HttpMessageNotReadableException.class)
+    public ResponseEntity<ResponseDTO> handleHttpMessageNotReadableException(HttpMessageNotReadableException exception){
+        log.error("Invalid Date format",exception);
+        ResponseDTO responseDTO = new ResponseDTO("Exception while processing REST Request","should have date in format of dd-MM-yyyy");
+        return new ResponseEntity<ResponseDTO>(responseDTO,HttpStatus.BAD_REQUEST);
+    }
 
     @ExceptionHandler(MethodArgumentNotValidException.class)
     public ResponseEntity<ResponseDTO> handleMethodArgumentNotValidException(
