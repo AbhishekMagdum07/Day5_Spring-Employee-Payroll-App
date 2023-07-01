@@ -7,6 +7,7 @@ import lombok.ToString;
 
 import javax.validation.constraints.*;
 import java.time.LocalDate;
+import java.util.List;
 
 
 @NoArgsConstructor
@@ -34,5 +35,5 @@ public class EmployeePayrollDTO {
     public String profilePic;
 
     @NotNull(message = "department should Not be Empty")
-    public String department;
+    public List<String> department;
 }
